@@ -65,3 +65,9 @@ h1 {
     font-size: 1.25em;
     font-weight: bold;
 }
+
+.container-card{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
